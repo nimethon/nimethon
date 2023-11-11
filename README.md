@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Machine Learning,Simulation with MATLAB**
 
+- 🤝 I’m looking for help with **ML**
+
+- 👨‍💻 All of my projects are available at [https://github.com/nimethon](https://github.com/nimethon)
+
 - 💬 Ask me about **HTML,HTML5,CSS,JavaScript,Python**
 
 - 📫 How to reach me **nazimulislam121@gmail.com**
@@ -14,7 +18,7 @@
 <a href="https://linkedin.com/in/methon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="methon" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdnazimulislammethon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdnazimulislammethon" height="30" width="40" /></a>
 <a href="https://fb.com/nimethon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimethon" height="30" width="40" /></a>
-<a href="https://instagram.com/nimethon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nimethon" height="30" width="40" /></a>
+<a href="https://instagram.com/ni._.methon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ni._.methon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
