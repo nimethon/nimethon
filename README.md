@@ -1,13 +1,13 @@
-<h1 align="center">It's a pleasure to meet you. I'm Md. Nazimul Islam Methon</h1>
-<h3 align="center">A passionate and driven individual with a strong academic background in chemical engineering, an avid interest in machine learning, and a fascination for web development.</h3>
+<h1 align="center"> Greetings! I'm Md. Nazimul Islam Methon</h1>
+<h3 align="center">A passionate strong academic background in chemical engineering, an avid interest in machine learning, and a fascination for web development.</h3>
 
 - 🔭 I’m currently working on **Machine Learning at AiQuest**
 
 - 🌱 I’m currently learning **Machine Learning,Simulation with MATLAB**
 
-- 🤝 I’m looking for help with **ML**
+- 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nimethon](https://github.com/nimethon)
+- 👨‍💻 All of my projects/Repositories are available at [https://github.com/nimethon](https://github.com/nimethon?tab=repositories)
 
 - 💬 Ask me about **HTML,HTML5,CSS,JavaScript,Python**
 
