@@ -1,5 +1,5 @@
 <h1 align="center"> Greetings! I'm Md. Nazimul Islam Methon</h1>
-<h3 align="center">A passionate strong academic background in chemical engineering, an avid interest in machine learning, and a fascination for web development.</h3>
+<h3 align="center">A passionate strong academic background in <b> Chemical Engineering</b>, an avid interest in <b>Machine Learning</b>, and a fascination for<b> Web Development</b>.</h3>
 
 - 🔭 I’m currently working on **Machine Learning at AiQuest**
 
