@@ -33,7 +33,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nimethon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nimethon&theme=blue-green)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nimethon&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
