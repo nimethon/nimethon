@@ -1,15 +1,19 @@
 <h1 align="center"> Greetings! I'm Md. Nazimul Islam Methon</h1>
-<h3 align="center">A passionate strong academic background in Chemical Engineering</span>, an avid interest in Machine Learning, and a fascination for Web Development</h3>
+<h3 align="center">A passionate strong academic background in Chemical Engineering</span>, an avid interest in Machine Learning, Python, MATLAB, ASPEN Hysys, AUTOCAD </span> Process & Engineering: Process Engineering, Unit Operations, Process Calculations, Process Control Fundamentals, Heat and Mass Transfer, Industrial Safety. </span>
+
+Software & Data Analysis: Microsoft Excel, Word, PowerPoint, Python, Pandas, OriginPro, Aspen HYSYS (Basic), MATLAB (Basic), AutoCAD. </span>
+
+Laboratory & Analytical Techniques: HPLC, GC, FTIR Spectroscopy, UV–Vis Spectroscopy, BET Analysis. </h3>
 
 - 🔭 I’m currently working on **Machine Learning at AiQuest**
 
-- 🌱 I’m currently learning **Machine Learning,Simulation with MATLAB**
+- 🌱 I’m currently learning **Simulation with ASpen**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Engineering Problem**
 
 - 👨‍💻 All of my projects/Repositories are available at [https://github.com/nimethon](https://github.com/nimethon?tab=repositories)
 
-- 💬 Ask me about **HTML,HTML5,CSS,JavaScript,Python**
+- 💬 Ask me about **Process Optimization, Production planning, Operational Maintenance,Python**
 
 - 📫 How to reach me **nazimulislam121@gmail.com**
 
