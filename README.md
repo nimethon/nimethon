@@ -1,5 +1,5 @@
 <h1 align="center"> Greetings! I'm Md. Nazimul Islam Methon</h1>
-<h3 align="center">A passionate strong academic background in Chemical Engineering</span>, an avid interest in Machine Learning, ASPEN Hysys, AUTOCAD, Process Engineering, Unit Operations, Process Calculations, Process Control Fundamentals, Heat and Mass Transfer, Industrial Safety.
+<h3 align="center">A passionate strong academic background in Chemical Engineering, an avid interest in Machine Learning, ASPEN Hysys, AUTOCAD, Process Engineering, Unit Operations, Process Calculations, Process Control Fundamentals, Heat and Mass Transfer, Industrial Safety.</h3>
 
 - 🔭 I’m currently working on **Machine Learning at AiQuest**
 
