@@ -1,9 +1,5 @@
 <h1 align="center"> Greetings! I'm Md. Nazimul Islam Methon</h1>
-<h3 align="center">A passionate strong academic background in Chemical Engineering</span>, an avid interest in Machine Learning, Python, MATLAB, ASPEN Hysys, AUTOCAD </span> Process & Engineering: Process Engineering, Unit Operations, Process Calculations, Process Control Fundamentals, Heat and Mass Transfer, Industrial Safety. </span>
-
-Software & Data Analysis: Microsoft Excel, Word, PowerPoint, Python, Pandas, OriginPro, Aspen HYSYS (Basic), MATLAB (Basic), AutoCAD. </span>
-
-Laboratory & Analytical Techniques: HPLC, GC, FTIR Spectroscopy, UV–Vis Spectroscopy, BET Analysis. </h3>
+<h3 align="center">A passionate strong academic background in Chemical Engineering</span>, an avid interest in Machine Learning, ASPEN Hysys, AUTOCAD, Process Engineering, Unit Operations, Process Calculations, Process Control Fundamentals, Heat and Mass Transfer, Industrial Safety.
 
 - 🔭 I’m currently working on **Machine Learning at AiQuest**
 
